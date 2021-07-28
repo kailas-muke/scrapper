@@ -1,6 +1,6 @@
 # Web Srcapping
 
-This repository contains differnt approches to scrap the websites.
+This repository contains differnt approches to scrap the web pages.
 
 
 
